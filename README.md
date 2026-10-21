@@ -5,8 +5,8 @@ Grinding algorithms \& data structures, one problem at a time.
 
 Started on: 20th August 2026  
 <br>
-Total solved: 78  
-Last push: 20-10-2026  
+Total solved: 79  
+Last push: 21-10-2026  
 
 
 
